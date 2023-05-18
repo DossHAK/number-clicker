@@ -1,0 +1,16 @@
+.box {
+  width: 100px;
+  height: 100px;
+  border: 5px solid #000;
+  border-radius: 15px;
+  background-color: blue;
+  font-size: 50px;
+  color: yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}/*# sourceMappingURL=style.css.map */
